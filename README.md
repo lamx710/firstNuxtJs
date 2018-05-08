@@ -1,0 +1,2 @@
+# firstNuxtJs
+New nuxtjs repo
